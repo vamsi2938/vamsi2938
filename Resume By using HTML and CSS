@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>RESUME</title>
+ <style>
+        h1{
+		text-align: center
+		}
+		.n1{
+		border-color:red;
+		border-width:5px;
+		background-color:#00ff0f;
+		    }
+		.n2{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(120,180,200);
+		    }
+			.n3{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(75,145,200);
+		    }
+			.n4{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(220,30,215);
+		    }
+			.n5{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(80,220,56);
+		    }
+			.n6{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(220,30,215);
+		    }
+			.n7{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(100,170,120);
+		    }
+			.n8{
+		border-color:red;
+		border-width:5px;
+		background-color:rgb(210,220,230);
+		    }
+
+    </style>
+ </head>
+ <body>
+ <h1><font size="6" face="time new roman" color="#123456">RESUME</h1></font>
+<h2 style="color:blue;font-size:25px;"> KARE VENKATARAMANA GNANAVAMSI</h2>
+<h4> Mobile No: 8179204809</h4>
+<h4> Email Id:vamsiramana2001@gmail.com</h4>
+<p><font size="4">Tirupati,Chittoor dist.,Andhrapradesh,517507.</p><hr></font>
+ <h4 class="n1"><font size="4.5" face="time new roman" color="#0000ff"><b>OBJECTIVE :-</b></h4></font>
+ <p><font size="4.5" color="#000000"<ul style ="list-style-type:disc"><li>I seek challenging opportunities where I can fully use my skills for the success of the organization.</li></ul></p></font>
+<h4 class="n2"><font size="4.5" face="time new roman" color="#0000ff"><b>EDUCATION :-</b></h4></font>
+<p><table border ="2">
+<tr><th>Course</th><th>Board/University</th><th>Institute</th><th>Year of Passedout </th><th>Percentage</th>
+</tr>
+<tr><td>B.Tech in Electronics and Communication Engineering</td><td>JNTUA </td><td>Annamacharya Institute of Technology and Sciences</td><td>2022</td><td>74</td></tr>
+<tr><td>Diploma in Electronics and Communication Engineering</td><td>SBTET</td><td>Sri Vidyanikethan Engineering College </td><td>2019</td><td>81</td></tr>
+<tr><td>SSC</td><td>BSEAP </td><td>Bhashyam High School</td><td>2016</td><td>83</td></tr></table>
+</p>
+<h4 class="n3"><font size="4.5" face="time new roman" color="#0000ff"><b>SKILLS :-</b></h4></font>
+<ul style ="list-style-type:disc">
+<li>JAVA</li>
+<li>SQL</li>
+<li>HTML</li>
+<li>COMMUNICATION SKILLS</li>
+</ul>
+<h4 class="n4"><font size="4.5" face="time new roman" color="#0000ff"><b>PROJECT :-</b></h4></font>
+<p><font size="3" face="time new roman"><b> SOLAR BASED SMART BILLING FOR TOLLGATE </p></font></b>
+<p>Technologies used in 
+<ul style ="list-style-type:disc">
+<li>RFID TECHNOLOGY</li>
+<li>SOLAR TECHNOLOGY</li>
+<li>ARDUNIO UNO MICROCONTROLLER</li>
+</ul></p>
+<h4 class="n5"><font size="4.5" face="time new roman" color="#0000ff"><b>INTERNSHIP :-</b></h4></font>
+<p><font size="3" face="time new roman"> I done my internship in SVBC duration 6months.</font></p>
+<h4 class="n6"><font size="4.5" face="time new roman" color="#0000ff"><b>INTERESTS :-</b></h4></font>
+<ul style ="list-style-type:disc">
+<li>Playing Circket</li>
+<li>Cooking</li>
+<li>Listening Music</li>
+<li>Watching Movies</li>
+</ul>
+<h4 class="n7"><font size="4.5" face="time new roman" color="#0000ff"><b>LANGUAGES :-</b></h4></font>
+<ul style ="list-style-type:disc">
+<li>English</li>
+<li>Telugu</li>
+</ul>
+<h4 class="n8"><font size="4.5" face="time new roman" color="#0000ff"><b>DECLARATION :-</b></h4></font>
+<p><font size="3"face="time new roman">I hereby declare that the information furnished above is true to
+the best of my knowledge and belief.</p></font>
+ </body>
+</html>
